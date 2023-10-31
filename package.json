@@ -16,6 +16,7 @@
     "socket.io": "^4.7.2"
   },
   "devDependencies": {
+    "firebase-tools": "^12.7.0",
     "nodemon": "^3.0.1"
   }
 }
